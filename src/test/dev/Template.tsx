@@ -4,7 +4,7 @@ import { Footer } from '@components/footer/Footer.tsx';
 import footerStyle from '@components/footer/footer.module.css';
 import footerTitleStyle from '@components/title/footerTitle/footerTitle.module.css';
 
-export const Test = () => {
+export const Template = () => {
   return (
     <>
       <Nav />
